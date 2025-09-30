@@ -7,7 +7,7 @@
 ![Made with Expo](https://img.shields.io/badge/made%20with-Expo-blueviolet)
 
 This is a project I built with **React Native (Expo CLI)**
-The focus of this project is to create Goals, where you'll define the amount of money needed to achieve that goal, and later, the timeframe you intend to complete that Goal will be implemented. For now, however, it will only be possible to change the name of that Goal, perform Transactions to fill that Goal with more value, remove value from that Goal, and delete a Goal. It will also use a DB with SQL Lite later. The focus is on local storage.
+The focus of this project is to create Goals, where you'll define the amount of money needed to achieve that goal, and later, the timeframe you intend to complete that Goal will be implemented. For now, however, it will only be possible to change the name of that Goal, perform Transactions to fill that Goal with more value, remove value from that Goal, and delete a Goal. It will also use a DB with SQLite later. The focus is on local storage.
 
 ## 🚀 Features
 - [x] Linear-Gradient Component 
