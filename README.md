@@ -1,4 +1,4 @@
-# 📱 React Native (Expo CLI) - Adding Goals - BD(SQL lite)
+# 📱 React Native (Expo CLI) - Adding Goals - BD(SQLite)
 # Goal-Target - Goals Planning
 
 ![Platform: iOS](https://img.shields.io/badge/platform-iOS-blue.svg)
