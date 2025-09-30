@@ -1,4 +1,4 @@
-package com.goalapp
+package com.juniorb.goalTarget
 
 import android.app.Application
 import android.content.res.Configuration

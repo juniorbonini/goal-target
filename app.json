@@ -1,7 +1,23 @@
 {
   "expo": {
-    "name": "goal-app",
-    "slug": "goal-app",
-    "version": "1.0.0"
+    "name": "GoalTarget",
+    "slug": "GoalTarget",
+    "scheme": "goaltarget",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.juniorb.goalTarget",
+      "edgeToEdgeEnabled": true,
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/adaptive-icon.png",
+        "backgroundColor": "#3D44CD"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.juniorb.goalTarget",
+      "icon": "./src/assets/ios-icon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }

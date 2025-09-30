@@ -1,4 +1,4 @@
-package com.goalapp
+package com.juniorb.goalTarget
 
 import android.os.Build
 import android.os.Bundle
